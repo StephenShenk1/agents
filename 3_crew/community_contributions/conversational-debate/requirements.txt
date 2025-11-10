@@ -38,7 +38,7 @@ bcrypt==4.3.0
     # via chromadb
 blinker==1.9.0
     # via crewai
-brotli==1.1.0
+brotli==1.2.0
     # via gradio
 build==1.2.2.post1
     # via chromadb
