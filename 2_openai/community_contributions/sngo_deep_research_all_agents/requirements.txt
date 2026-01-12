@@ -15,3 +15,4 @@ typing-extensions==4.9.0
 
 # Note: Remove ipython for production deployment unless specifically needed
 # ipython==8.21.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
